@@ -3,3 +3,4 @@
 слово
 новая фича 2
 jdgjdgjdgj
+new feature
