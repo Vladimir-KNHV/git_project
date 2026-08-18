@@ -3,5 +3,6 @@
 слово
 новая фича 2
 jdgjdgjdgj
-new feature
 commit efore rebase
+new feature
+cherry-pick
